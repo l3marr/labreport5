@@ -7,4 +7,6 @@
 ![Image](ListExamples.png)
 
 **After making the changes, the ArrayList works and the tests involving merge() now pass.**
+![Image](testsLab7.png)
+
 
