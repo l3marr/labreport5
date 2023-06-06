@@ -4,3 +4,7 @@
 > Make sure you review all you code for syntax or simple errors. Remember that the ArrayList class is not part of the default Java 
 
 **After reviewing my code, I noticed that I did not import the Java ArrayList which is what prevented the merge() method from working**
+![Image](ListExamples.png)
+
+**After making the changes, the ArrayList works and the tests involving merge() now pass.**
+
